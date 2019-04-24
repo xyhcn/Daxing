@@ -1,7 +1,7 @@
 # Daxing
 Smartphone Identification Dataset
 
-[![dataset](https://github.com/xyhcn/Daxing/blob/master/imgFile/download.jpg)](https://www.ppsuc.edu.cn)
+[![dataset](https://github.com/xyhcn/Daxing/blob/master/imgFile/download.jpg)](http://www.ppsuc.edu.cn)
 
 图像采集的成像设备选择了当前市面上较为流行的手机品牌，包括Huawei, Apple, OPPO, VIVO, Xiaomi 5个品牌。每个品牌都选择了超过5个以上手机。具体的品牌、型号、手机数量如表I所示。
 
