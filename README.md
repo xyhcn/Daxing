@@ -6,10 +6,12 @@ there are 23 smartphone devices for iPhone 6S (Plus) model. To the best of our k
 
 ## Download
 ### Release date is expected to be May 7, 2019.
+
 [![dataset](https://github.com/xyhcn/Daxing/blob/master/imgFile/download.jpg)](http://www.ppsuc.edu.cn)
 
 ## Selection of smartphone brand and model
 >We selected the popular smartphone brands on the market currently for image collection, including Huawei, Apple, OPPO, VIVO, Xiaomi. Each brand has at least 5 smartphone devices.
+
 [![dataset](https://github.com/xyhcn/Daxing/blob/master/imgFile/phone.jpg)](http://www.ppsuc.edu.cn)
 
 ## Image collection
