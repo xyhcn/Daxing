@@ -5,7 +5,7 @@ The Daxing dataset includes 43,400 images and 1,400 videos captured by 90 smartp
 there are 23 smartphone devices for iPhone 6S (Plus) model. To the best of our knowledge, the Daxing dataset uses the largest amount of smartphones for image/video source identification compared with other related datasets, as well as the highest numbers of devices per model and captured images/videos. The dataset will be shared as an open source for scientific researchers and criminal investigators.
 
 ## Download
-### Release date is expected to be May 7, 2019.
+### Release date is expected to be May 13, 2019.
 
 [![dataset](https://github.com/xyhcn/Daxing/blob/master/imgFile/download.jpg)](http://www.ppsuc.edu.cn)
 
