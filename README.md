@@ -1,16 +1,19 @@
 # Daxing Smartphone Identification Dataset
 
 ## Description
-The Daxing dataset includes 40,488 original images and 2,327 original videos, from 84 smartphones of 22 models belonging to five brands. For example, for iPhone 6S model, there are 23 iPhone 6S and iPhone 6S Plus in the dataset. To the best of our knowledge, the “Daxing Smartphone Identification Dataset” has the most amount of mobile phones for image source identification compared with other related datasets, including the numbers of mobile phones of each model, captured images, and captured videos. The dataset will be used free of charge for scientific purposes, and be a useful resource for researchers and criminal investigators.
+The Daxing dataset includes 43,400 images and 1,400 videos captured by 90 smartphones of 22 models belonging to five brands. For example,
+there are 23 smartphone devices for iPhone 6S (Plus) model. To the best of our knowledge, the Daxing dataset uses the largest amount of smartphones for image/video source identification compared with other related datasets, as well as the highest numbers of devices per model and captured images/videos. The dataset will be shared as an open source for scientific researchers and criminal investigators.
 
 ## Download
 ### Release date is expected to be May 7, 2019.
 [![dataset](https://github.com/xyhcn/Daxing/blob/master/imgFile/download.jpg)](http://www.ppsuc.edu.cn)
 
-## Phone Model
->图像采集的成像设备选择了当前市面上较为流行的手机品牌，包括Huawei, Apple, OPPO, VIVO, Xiaomi 5个品牌。每个品牌都选择了超过5个以上手机。具体的品牌、型号、手机数量如下表所示。
+## Selection of smartphone brand and model
+>We selected the popular smartphone brands on the market currently for image collection, including Huawei, Apple, OPPO, VIVO, Xiaomi. Each brand has at least 5 smartphone devices.
 [![dataset](https://github.com/xyhcn/Daxing/blob/master/imgFile/phone.jpg)](http://www.ppsuc.edu.cn)
 
-## Image-capture
->成像设备选择好之后，就需要进行图像的采集工作，图像的采集工作主要包括拍摄场景的选择、成像设备的拍照设置、图像的数量等。所采用的场景包括"天空","草地","石碑","树木","楼梯","室内立式打印机","大堂墙壁","教室内白墙"等八个。在每一个场景中，都使用三种手机摆放角度(手机竖直放置为基准，此时的摆放角度我们设定为90度，逆时针旋转90度时为0度，顺时针旋转90度时为180度)拍摄图像。拍摄时，所有的相机都设置为"Default"的拍照模式，闪光灯都是设置为"关闭"。具体场景、摆设角度、图像数量如表II所示。其“天空”场景拍摄的图像数最多，每部手机不少于102张。对其它7个场景，每个场景的照片都不少于50张。这样，每部手机在8个场景中都拍摄了不少于482张图像。Some examples of the images included in the proposed dataset is shown as follows.
+## Image collection
+>After the devices were selected, the image collection work needed to be carried out. The image collection work mainly includes the selection of the shooting scene, the photographing setting of the imaging device, and the number of images. Selected scenes include “sky”, “grass”, “stone”, “trees”, “staircase”, “indoor vertical printer”, “lobby wall”, “white wall in the classroom”, etc. In each scene, imageswere captured when smartphone was placed at three different angles (we regarded the vertical position of the smartphone as the reference, and the placement angle was set as 90 degrees, 0 degrees when rotating 90 degrees counterclockwise and 180 degrees when rotating 90 degrees clockwise, respectively). All of cameras were set to “Default” mode and flash was set to “Off” mode in the collection process. Specific information including scenes display angles and image numbers is shown in Table II. The sky scene provides the most amount of images, no less than 102 per smartphone. For the other seven scenes, there are no less than 50 photos of each scene. As a result, each
+smartphone captures no less than 482 images in eight scenes. Some examples in the Daxing dataset are shown as follows.
+
 [![dataset](https://github.com/xyhcn/Daxing/blob/master/imgFile/example.jpg)](http://www.ppsuc.edu.cn)
