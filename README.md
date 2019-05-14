@@ -5,9 +5,18 @@ The Daxing dataset includes 43,400 images and 1,400 videos captured by 90 smartp
 there are 23 smartphone devices for iPhone 6S (Plus) model. To the best of our knowledge, the Daxing dataset uses the largest amount of smartphones for image/video source identification compared with other related datasets, as well as the highest numbers of devices per model and captured images/videos. The dataset will be shared as an open source for scientific researchers and criminal investigators.
 
 ## Download
-### Release date is expected to be May 13, 2019.
 
-[![dataset](https://github.com/xyhcn/Daxing/blob/master/imgFile/download.jpg)](http://www.ppsuc.edu.cn)
+[**Video**](http://pan.ppsuc.edu.cn:80/link/EB47EBD36770E30A02B831F190377032)
+### image
+[1101-1104](http://pan.ppsuc.edu.cn:80/link/82013B3BA20F7383E727B8B5B6AC17BD)
+[1201-1301](http://pan.ppsuc.edu.cn:80/link/A038816CF8B21F9E8E302C5AC4F9FF64)
+[1401-1404](http://pan.ppsuc.edu.cn:80/link/ACBE9686A55DC50211B156383CB499A0)
+[1501-1503](http://pan.ppsuc.edu.cn:80/link/0C081C731E75402E5CEB0870E5933FC4)
+[1601-1606](http://pan.ppsuc.edu.cn:80/link/974D5678C97F679DB02A2680F75C55F4)
+[2101-2702](http://pan.ppsuc.edu.cn:80/link/B0746198790389C22CED440317920E7C)
+[3101-3401](http://pan.ppsuc.edu.cn:80/link/8092D9F74B650C4717344AF419E9046B)
+[4101-4401](http://pan.ppsuc.edu.cn:80/link/C5294C4DE528B181C5BF66F584C94667)
+[5101-5105](http://pan.ppsuc.edu.cn:80/link/31B923A59DF62F682F41DDDFBF08454D)
 
 ## Selection of smartphone brand and model
 >We selected the popular smartphone brands on the market currently for image collection, including Huawei, Apple, OPPO, VIVO, Xiaomi. Each brand has at least 5 smartphone devices.
