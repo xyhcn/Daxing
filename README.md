@@ -1,13 +1,15 @@
 # Daxing Smartphone Identification Dataset
 
 ## Description
-The Daxing dataset includes 43,400 images and 1,400 videos captured by 90 smartphones of 22 models belonging to five brands. For example,
-there are 23 smartphone devices for iPhone 6S (Plus) model. To the best of our knowledge, the Daxing dataset uses the largest amount of smartphones for image/video source identification compared with other related datasets, as well as the highest numbers of devices per model and captured images/videos. The dataset will be shared as an open source for scientific researchers and criminal investigators.
+The Daxing dataset includes 43,400 images and 1,400 videos captured by 90 smartphones of 22 models belonging to five brands. For example, there are 23 smartphone devices for iPhone 6S (Plus) model. To the best of our knowledge, the Daxing dataset uses the largest amount of smartphones for image/video source identification compared with other related datasets, as well as the highest numbers of devices per model and captured images/videos. The dataset will be shared as an open source for scientific researchers and criminal investigators.
+
+All the images in this dataset were directly copy from smartphones without postprocessing. The resolution of the images is the default resolution of each smartphone camera. The resolution of smartphone is as follows. For the convenience, we have encoded every device. In the encoding process, the first code of all smartphones of the same brand is the same, the first two codes of all smartphones of the same model are the same, and the last two codes represent different individual devices of the same model. The specific codes are
+shown as follows.
+[![dataset](https://github.com/xyhcn/Daxing/blob/master/imgFile/3.jpg)](http://www.ppsuc.edu.cn)
 
 ## Download
-
 [**Video**](http://pan.ppsuc.edu.cn:80/link/EB47EBD36770E30A02B831F190377032)
-### image
+### Image
 [1101-1104](http://pan.ppsuc.edu.cn:80/link/82013B3BA20F7383E727B8B5B6AC17BD)
 [1201-1301](http://pan.ppsuc.edu.cn:80/link/A038816CF8B21F9E8E302C5AC4F9FF64)
 [1401-1404](http://pan.ppsuc.edu.cn:80/link/ACBE9686A55DC50211B156383CB499A0)
