@@ -25,5 +25,7 @@ smartphone captures no less than 482 images in eight scenes. Some examples in th
 [![dataset](https://github.com/xyhcn/Daxing/blob/master/imgFile/2.jpg)](http://www.ppsuc.edu.cn)
 ## Citation
 H. Tian, Y. Xiao, G. Cao, Y. Zhang, Z. Xu and Y. Zhao, "Daxing Smartphone Identification Dataset," in IEEE Access, vol. 7, pp. 101046-101053, 2019.
+
 doi: 10.1109/ACCESS.2019.2928356
+
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8760241&isnumber=8600701
