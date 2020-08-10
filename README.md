@@ -9,9 +9,10 @@ shown as follows.
 
 ## Download
 
-[**Video**](http://pan.ppsuc.edu.cn:80/link/97A3ACB2FC4487EC06A684B2418C89A8)
+[**Video**](https://pan.baidu.com/s/1BMfROaUWUfI-Gx9Z71a_4w)
 
-[**Image**](http://pan.ppsuc.edu.cn:80/link/445036C67DF95BC9F2B30893525D14CC)
+[**Image**](https://pan.baidu.com/s/1BMfROaUWUfI-Gx9Z71a_4w)
+Fetch Code = 2019
 
 ## Selection of smartphone brand and model
 >We selected the popular smartphone brands on the market currently for image collection, including Huawei, Apple, OPPO, VIVO, Xiaomi. Each brand has at least 5 smartphone devices.
