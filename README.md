@@ -16,14 +16,14 @@ Fetch Code: 2019
 ## Selection of smartphone brand and model
 >We selected the popular smartphone brands on the market currently for image collection, including Huawei, Apple, OPPO, VIVO, Xiaomi. Each brand has at least 5 smartphone devices.
 
-[![dataset](https://github.com/xyhcn/Daxing/blob/master/imgFile/1.jpg)](http://www.ppsuc.edu.cn)
+[![dataset](https://github.com/xyhcn/Daxing/blob/master/imgFile/1.jpg)]
 
 ## Image collection
 >After the devices were selected, the image collection work needed to be carried out. The image collection work mainly includes the selection of the shooting scene, the photographing setting of the imaging device, and the number of images. Selected scenes include “sky”, “grass”, “stone”, “trees”, “staircase”, “indoor vertical printer”, “lobby wall”, “white wall in the classroom”, etc. In each scene, imageswere captured when smartphone was placed at three different angles (we regarded the vertical position of the smartphone as the reference, and the placement angle was set as 90 degrees, 0 degrees when rotating 90 degrees counterclockwise and 180 degrees when rotating 90 degrees clockwise, respectively). All of cameras were set to “Default” mode and flash was set to “Off” mode in the collection process. Specific information including scenes display angles and image numbers is shown in Table II. The sky scene provides the most amount of images, no less than 102 per smartphone. For the other seven scenes, there are no less than 50 photos of each scene. As a result, each
 smartphone captures no less than 482 images in eight scenes. Some examples in the Daxing dataset are shown as follows.
 
-[![dataset](https://github.com/xyhcn/Daxing/blob/master/imgFile/2.jpg)](http://www.ppsuc.edu.cn)
-## Citation
+[![dataset](https://github.com/xyhcn/Daxing/blob/master/imgFile/2.jpg)]
+
 H. Tian, Y. Xiao, G. Cao, Y. Zhang, Z. Xu and Y. Zhao, "Daxing Smartphone Identification Dataset," in IEEE Access, vol. 7, pp. 101046-101053, 2019.
 
 DOI: 10.1109/ACCESS.2019.2928356
