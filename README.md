@@ -12,6 +12,7 @@ shown as follows.
 [**Video**](https://pan.baidu.com/s/1BMfROaUWUfI-Gx9Z71a_4w)
 
 [**Image**](https://pan.baidu.com/s/1BMfROaUWUfI-Gx9Z71a_4w)
+
 Fetch Code = 2019
 
 ## Selection of smartphone brand and model
