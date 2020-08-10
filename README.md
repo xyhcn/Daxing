@@ -5,8 +5,7 @@ The Daxing dataset includes 43,400 images and 1,400 videos captured by 90 smartp
 
 All the images in this dataset were directly copy from smartphones without postprocessing. The resolution of the images is the default resolution of each smartphone camera. The resolution of smartphone is as follows. For the convenience, we have encoded every device. In the encoding process, the first code of all smartphones of the same brand is the same, the first two codes of all smartphones of the same model are the same, and the last two codes represent different individual devices of the same model. The specific codes are
 shown as follows.
-[![dataset](https://github.com/xyhcn/Daxing/blob/master/imgFile/3.jpg)](http://www.ppsuc.edu.cn)
-
+[![dataset](https://github.com/xyhcn/Daxing/blob/master/imgFile/3.jpg)]
 ## Download
 
 [**Dataset**](https://pan.baidu.com/s/1BMfROaUWUfI-Gx9Z71a_4w)
