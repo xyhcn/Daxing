@@ -8,7 +8,7 @@ shown as follows.
 ![Image](https://github.com/xyhcn/Daxing/blob/master/imgFile/3.jpg)
 ## Download
 
-[**Dataset**](https://pan.baidu.com/s/1jldJQ33BSac7Jwhn1H1SUw?pwd=2024)
+[**Dataset**](https://pan.baidu.com/s/1bXfgR1bX7qQvD5LcXyTjfA?pwd=2024)
 
 Fetch Code: 2024
 
